@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="text">0</string>
+    <string name="reset">reset</string>
+</resources>
